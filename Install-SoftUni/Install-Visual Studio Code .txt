@@ -1,0 +1,79 @@
+Инсталиране на Visual Studio Code
+
+Този документ е част от курса: “Programming Basics with JavaScript” course @ SoftUni.
+
+Последващата информация служи за наръчник за инсталиране и конфигуриране на Node.js  и Visual Studio Code. 
+Visual Studio Code е безплатна платформа за програмиране на езици като Java, JavaScript, HTML5, PHP, C++.
+
+Част I: Инсталиране на Node.js
+
+	Изтегляне на Node.js
+
+Изтеглете Node.js от: https://nodejs.org/en/download/
+
+	Инсталиране на Node.js
+
+Инсталирайте Node.js в директория по избор.
+
+Важно: След успешна инсталация на Node.js задължително рестартирайте компютъра си преди да продължите с Част II !
+
+Част II: Инсталиране на Visual Studio Code
+
+	Изтегляне на Visual Studio Code
+
+Изтеглете инсталатора на  Visual Studio Code от https://code.visualstudio.com/download
+
+2. Инсталиране на Visual Studio Code
+
+Снимките долу показват стъпките, нужни за успешното инсталиране на Visual Studio Code за Windows 10.
+
+Инсталирайте Visual Studio Code в директория по избор.
+
+
+При успешна инсталляция трябва да видите следния финален екран:
+
+
+При стартиране на Visual Studio Code трябва да видите следния прозорец:
+
+
+
+Software University
+За нас
+Учебен план
+Сертификати
+Преподаватели
+Такси за обучение
+Често задавани въпроси
+Общи условия
+Лични данни
+Карта на сайта
+Всички обучения
+Програма по софтуерно инженерство
+Отворени курсове
+Семинари
+Всички инициативи
+SoftUni Digital
+SoftUni Creative
+SoftUni Kids
+SoftUni Svetlina
+SoftUni Foundation
+SoftUni Global
+Компании партньори
+XS Software
+СуперХостинг.БГ
+SmartIT
+Software Group
+Indeavr
+DraftKings
+Пощенска Банка
+Coca Cola HBC Bulgaria
+CreateX
+Taulia
+PokerStars
+Schwarz IT
+PharVision
+Verified by Visa MasterCard® SecureCode™
+© 2013-2022 - Software University LTD - All Rights Reserved. 94851
+
+Software University Learning System 3.0.8167
+

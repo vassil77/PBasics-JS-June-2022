@@ -1,0 +1,34 @@
+Здравейте студенти!
+
+Тук може да се упражнявате допълнително, ако ви остава свободно време.
+
+:929321877481074758: HackerRank 
+https://www.hackerrank.com/dashboard
+:codeW: Codewars
+https://www.codewars.com/
+:929326782358913034: W3Schools
+https://www.w3schools.com/
+
+Успех!
+
+
+Здравейте студенти!
+
+Тук може да откриете две от книгите на д-р Светлин Наков:
+
+-Въведение в програмирането с Java - Светлин Наков и колектив :926239760081621082: 
+https://introprogramming.info/wp-content/uploads/2017/04/Introduction-to-Programing-with-Java-Book-v2017.pdf
+
+-Принципи на програмирането със C# :csharp: 
+https://introprogramming.info/wp-content/uploads/2018/07/CSharp-Principles-Book-Nakov-v2018.pdf
+
+Успех!
+Здравейте студенти!
+
+Тук може да намерите допълнителни упражнения, задачи и предизвикателства по програмиране от "University of Washington", "University of Hamburg", "Princeton University" и много други.
+
+:coding: PRACTITY
+https://practity.com/
+
+Успех!
+
